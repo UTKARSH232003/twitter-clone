@@ -1,5 +1,6 @@
 I have push the backend and frontend folder with the packages so you don't have to worry about the installation just clone the whole repo 
 
+for the frontend you have to install the node modules
 write 
 step1 - (cd backend)  
 step 2 - (npm run start)

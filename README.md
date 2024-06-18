@@ -1,3 +1,7 @@
+link - https://twitter-clone-7uwd.onrender.com
+
+
+
 I have push the backend and frontend folder with the packages so you don't have to worry about the installation just clone the whole repo 
 
 for the frontend you have to install the node modules
@@ -11,3 +15,5 @@ step 2 - (npm run dev)
 
 it will connect to the server of the backend and will run if disn't then go to vite.config.js
 and in the server->proxy write the localhost your localmachine is on and then it will work 
+
+
